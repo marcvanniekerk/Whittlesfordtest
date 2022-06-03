@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: marcvanniekerk/Whittlesfordtest.github.io
-  branch: master
+  branch: gh-pages
   site_domain: beamish-madeleine-e32b7d.netlify.com
 
 media_folder: "images/uploads"
