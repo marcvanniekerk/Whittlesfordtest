@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: marcvanniekerk/Whittlesfordtest
+  repo: marcvanniekerk/Whittlesfordtest.github.io
   branch: master
   site_domain: beamish-madeleine-e32b7d.netlify.com
 
